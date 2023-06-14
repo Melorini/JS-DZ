@@ -1,0 +1,33 @@
+h1, h2 {
+    color: green;
+    font-size: 30px;
+    margin: 0;
+}
+p {
+    margin: 0;
+}
+.title {
+    color: rgb(37, 75, 179);
+    font-size: 75px;
+}
+.boxWrapper {
+    margin-top: 55px;
+    display: flex;
+}
+.box {
+    border: 2px dashed rgb(47, 78, 255);
+    width: 200px;
+    padding: 20px;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.active {
+    color: rgb(115, 170, 13);
+}
+
